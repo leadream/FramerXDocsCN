@@ -48,7 +48,7 @@ This should look very familiar if you have done web development before, and it's
 
 ## Creating a Code Component
 
-To create a new code component, go to the Components panel \(left side of the window\) and click "Create Component". Then, select "from Code", pick a name \(no spaces\) and click create.
+To create a new code component, go to the Components panel \(left side of the window\) and click "New Component". Then, select "from Code", pick a name \(no spaces\) and click "Create and Edit".
 
 If you have an editor installed, it should now open up with a new boilerplate component which is purple and says "hello world". Go back to the Components panel in Framer X and drag a few onto the canvas. Note that they can have different positions and sizes. Every component on the canvas is an _instance_ of the code component.
 
