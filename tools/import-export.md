@@ -8,21 +8,21 @@ Here’s an overview of the specific features and tools included in this plugin:
 
 **Supported:**
 
-- Artboards
-- Groups
-- Shapes
-- Text Layers
-- Paths
-- Boolean Operations
-- Symbols
+* Artboards
+* Groups
+* Shapes
+* Text Layers
+* Paths
+* Boolean Operations
+* Symbols
 
 **Not yet supported:**
 
-- Nested Symbols
-- Stroke Settings
-- Masked Layers
-- Image Fill
-- Radial / Angular Gradient
+* Nested Symbols
+* Stroke Settings
+* Masked Layers
+* Image Fill
+* Radial / Angular Gradient
 
 ## Export
 
@@ -32,10 +32,10 @@ Exporting works exactly as you’d expect. You can create multiple exports for a
 
 You can export your Frames to:
 
-- PNG
-- JPG
-- WEBP
-- PDF
+* PNG
+* JPG
+* WEBP
+* PDF
 
 _You can also copy the CSS code from your Frame directly._
 
@@ -58,3 +58,4 @@ Framer has a few pre-loaded exporting presets. The iOS and Android presets conta
 **Android Size Presets**
 
 `1x` `1.5x` `2x` `3x` `4x`
+

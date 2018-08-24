@@ -8,8 +8,7 @@ Framer X its interface will be familiar to most, with a large canvas, device pre
 
 It offers a blank canvas to explore ideas through quick concepts, one-off mockups or to create advanced designs on. You can draw directly on the canvas, import images and insert icons. Or set up a series of frames to create a multi-screen app flow.
 
-Designing on the canvas works great for smaller interactions, but we recommend using frames for complex and responsive app flows. No matter how you like to work, our canvas supports your design flow.[
-](https://framer.com/getstarted/guides/code/#preview)
+Designing on the canvas works great for smaller interactions, but we recommend using frames for complex and responsive app flows. No matter how you like to work, our canvas supports your design flow.[ ](https://framer.com/getstarted/guides/code/#preview)
 
 ![](.gitbook/assets/canvas-overview-2x.jpg)
 
@@ -56,3 +55,4 @@ _This section of the docs is coming soon._
 ## Frames \(as screens\)
 
 _This section of the docs is coming soon._
+

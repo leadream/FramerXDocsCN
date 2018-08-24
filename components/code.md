@@ -103,7 +103,7 @@ export class Example extends React.Component<{width:number, height: number}> {
 
 Framer detects you are using the props.children property in your render method and automatically adds a connector to each instance of the component on your canvas \(a purple dot on the right side, like the scroll tool\). You can drag a connection from this connector to any Frame on the canvas and it will use it as its children to render.
 
-_Hint: you can even override the props for the children by using `React.Children.Map` and `React.Children.cloneElement` methods._
+_Hint: you can even override the props for the children by using_ `React.Children.Map` _and_ `React.Children.cloneElement` _methods._
 
 #### Using canvas imports
 
@@ -362,6 +362,4 @@ WIP, not in Beta yet.
 ## Editing Components from Packages
 
 WIP, not in Beta yet. But you can right click any component and select "Copy Code".
-
-
 

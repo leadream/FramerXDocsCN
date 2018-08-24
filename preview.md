@@ -47,3 +47,4 @@ When your prototype is finished and you are ready to show it to the world then g
 View and interact with your native projects in context with our preview apps for iOS and Android.
 
 _Framer X Beta does not currently feature Mobile and Remote Previewing. More about this will come soon._
+

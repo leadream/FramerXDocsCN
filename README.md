@@ -26,7 +26,7 @@ The goal of Framer X is to support many types of workflows, and with that many t
 
 The list below is an example of parts of Framer X you would need for different design tasks. Make sure to check our [beta feature list](introduction/beta/#beta-features) to make sure what is available today.
 
-**A. Wire-framing**  – quickly visualize an interactive idea, layout, user flow and information architecture.
+**A. Wire-framing** – quickly visualize an interactive idea, layout, user flow and information architecture.
 
 * **Interface:** login, signup, canvas, properties, tools, layers, components, store.
 * **Canvas:** navigation, selection, editing.
@@ -65,9 +65,5 @@ _Helpful to know: JavaScript, React, motion graphics._
 
 _Helpful to know: NPM, Yarn._
 
-
-
 ![](.gitbook/assets/framer%20%281%29.png)
-
-
 
