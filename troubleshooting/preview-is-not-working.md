@@ -15,7 +15,7 @@ Please hit the refresh icon \(or  `CMD`  + `R`  \) a few times in the top right 
 
 ## Always keep the Framer Library up-to-date
 
-During the Framer X Beta period we will be making tweaks continuously in order to provide you with more features and an overall better experience. This can also lead to you seeing bugs in the mean time. When you see an issue appear, please first check if the blue _**Update Library**_ ****button is present in the bottom left of your Framer X Beta app and click it. If the issue persists then [please let us know](https://framer.gitbook.io/framer/~/drafts/-LKfqUobSTxZvnUHGbcG/primary/introduction#getting-help-and-support).
+During the Framer X Beta period we will be making tweaks continuously in order to provide you with more features and an overall better experience. This can also lead to you seeing bugs in the mean time. When you see an issue appear, please first check if the blue _**Update Library**_ ****button is present in the bottom left of your Framer X Beta app and click it. If the issue persists then [please let us know](https://framer.gitbook.io/framer/introduction#getting-help-and-support).
 
 
 
