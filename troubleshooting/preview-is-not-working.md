@@ -11,7 +11,7 @@ Preview should now work as intended again.
 
 ## Library up-to-date, Preview still not showing anything
 
-Please hit the refresh icon \(or  `CMD`  + `R`   \) a few times in the top right corner of your preview window.
+Please hit the refresh icon \(or  `CMD`  + `R`  \) a few times in the top right corner of your preview window.
 
 ## Always keep the Framer Library up-to-date
 
