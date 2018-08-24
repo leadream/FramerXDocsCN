@@ -38,5 +38,6 @@
   * [React Component Authors](guides-wip/react-component-authors.md)
 * [Troubleshooting](troubleshooting/README.md)
   * [.framerx issues](troubleshooting/framerx-issues.md)
+  * [Preview issues](troubleshooting/preview-is-not-working.md)
 * [FAQ](faq.md)
 
