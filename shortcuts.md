@@ -20,3 +20,12 @@
 | `Select Text` `⌘`+`I` Italic text |
 | `Select Text` `⌘`+`B` Bold text |
 
+
+| Layers |
+| :--- |
+| `⌘`+`⌥`+`↑` Move forward |
+| `⌘`+`⌥`+`↓` Move backward |
+| `⌘`+`G` Group |
+| `⇧`+`⌘`+`G` Ungroup |
+| `⌘`+`L` Lock |
+| `⌘`+`;` Hide |
