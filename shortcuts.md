@@ -11,6 +11,21 @@
 | `O` Oval | `⌘`+`9` Focus Canvas |
 |  | `⌘`+`Drag` Pan |
 
+| Edit |
+| :--- |
+| `⌘`+`D` Duplicate |
+| `⌘`+`⌥`+`↑` Move Forward |
+| `⌘`+`⌥`+`↓` Move Backward |
+| `⌘`+`L` Lock / Unlock |
+| `⌘`+`;` Hide / Show |
+| `⌘`+`⌥`+`C` Copy Style |
+| `⌘`+`⌥`+`V` Paste Style |
+
+| Frame |
+| :--- |
+| `⌘`+`Enter` Add Frame |
+| `⌘`+`Backspace` Remove Frame |
+
 | Text |
 | :--- |
 | `⌘`+`T` Change typeface |
@@ -20,12 +35,7 @@
 | `Select Text` `⌘`+`I` Italic text |
 | `Select Text` `⌘`+`B` Bold text |
 
-
-| Layers |
+| Shape |
 | :--- |
-| `⌘`+`⌥`+`↑` Move forward |
-| `⌘`+`⌥`+`↓` Move backward |
 | `⌘`+`G` Group |
-| `⇧`+`⌘`+`G` Ungroup |
-| `⌘`+`L` Lock |
-| `⌘`+`;` Hide |
+| `⌘`+`Shift`+`G` Ungroup |
