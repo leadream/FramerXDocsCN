@@ -39,3 +39,4 @@
 | :--- |
 | `⌘`+`G` Group |
 | `⌘`+`Shift`+`G` Ungroup |
+

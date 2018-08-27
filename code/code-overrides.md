@@ -24,7 +24,7 @@ export const makeRed: Override = props => {
 ```
 
 {% hint style="info" %}
-Make sure you setup [VSCode for external editing](https://framer.gitbook.io/framer/~/edit/drafts/-LKS1WMROLkDNccBN9iI/application#setup).
+Make sure you setup [VSCode for external editing](https://framer.gitbook.io/framer/code#editor-setup).
 {% endhint %}
 
 ## Events
