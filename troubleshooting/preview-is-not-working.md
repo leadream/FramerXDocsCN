@@ -5,7 +5,6 @@ In some cases users may suddenly see a white/black screen in the Preview window,
 * Go to File in your taskbar
 * Click **Update Framer Library**
 * Click **Update**
-* Restart Framer
 
 Preview should now work as intended again.
 
