@@ -9,7 +9,7 @@ _We are still updating our docs. If you are missing any topics please let us kno
 
 ## Minimum Requirements
 
-In order to use the latest version of Framer, you must be running Mac OS X El Capitan \(version 10.11.2\) or higher. Framer runs perfectly on every Mac, from a MacBook to a Mac Pro.
+In order to use the latest version of Framer, you must be running macOS Sierra \(version 10.12.6\) or higher. Framer runs perfectly on every Mac, from a MacBook to a Mac Pro.
 
 ## Getting Framer
 
