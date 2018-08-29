@@ -149,7 +149,7 @@ export class Example extends React.Component<Partial<Props>> {
     static propertyControls: PropertyControls<Props> = {
         title: { type: ControlType.String, title: "Title" },
         tintColor: { type: ControlType.Color, title: "Tint" },
-        dimOverlay: { type: ControlType.Boolean, disabled: "Hide", enabled: "Show", title: "DimOverlay" },
+        dimOverlay: { type: ControlType.Boolean, disabledTitle: "Hide", enabledTitle: "Show", title: "DimOverlay" },
     }
 
     render() { ... }
