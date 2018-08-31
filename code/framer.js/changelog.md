@@ -1,5 +1,24 @@
 # Changelog
 
+## 0.7.9
+2018-08-31
+
+### Improved
+
+- Scaling font size for components with erros
+
+### Fixed
+
+- Rendering of shadows in Shapes
+
+## 0.7.8
+2018-08-29
+
+### Added
+
+-   Fade transition for Navigation component
+
+
 ## 0.7.7
 2018-08-28
 
