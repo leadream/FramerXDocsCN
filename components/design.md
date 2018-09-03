@@ -35,7 +35,7 @@ Let’s start with the design component we created for Overrides in the previous
 From there we can import it into any other code file like `import { Row } from "./canvas"`. The imported Row is a React component with the properties you defined in the master, in this case profile and title. Using the component will look like any other component:
 
 ```typescript
-<Row profile="profile.png" title="Sara" />
+<Row profile="profile.png" name="Sara" />
 ```
 
 Let’s try to make a list with the Row component based on an array. Start by creating a new code component from the Component panel and adding the following contents:

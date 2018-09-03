@@ -2,10 +2,9 @@
 
 ## Documentation
 
-Welcome to the Framer X Docs. This documentation should, when finished, include everything you need to know about our new product. 
+Welcome to the Framer X Docs. This documentation should, when finished, include everything you need to know about our new product.
 
-_We are still updating our docs. If you are missing any topics please let us know by_ [_filing an issue on Github_](https://github.com/framer/FramerXDocs/issues/new) _and we will try to have it in here soon._   
-
+_We are still updating our docs. If you are missing any topics please let us know by_ [_filing an issue on Github_](https://github.com/framer/FramerXDocs/issues/new) _and we will try to have it in here soon._
 
 ## Minimum Requirements
 
@@ -38,6 +37,4 @@ For questions on how to achieve something it's best to use the public [Framer gr
 For general questions about the app and how to do something contact our [support channel](mailto:support@framer.com) for private support. Please allow up to 48 hours for a response, we are still a small team.
 
 _Note: Sorry about the Facebook only groups, but the combination of real identity and the format contribute to a thriving and welcome community._
-
-
 

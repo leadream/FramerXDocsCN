@@ -1,93 +1,105 @@
 # Changelog
 
 ## 0.7.9
+
 2018-08-31
 
 ### Improved
 
-- Scaling font size for components with erros
+* Scaling font size for components with erros
 
 ### Fixed
 
-- Rendering of shadows in Shapes
+* Rendering of shadows in Shapes
 
 ## 0.7.8
+
 2018-08-29
 
 ### Added
 
--   Fade transition for Navigation component
-
+* Fade transition for Navigation component
 
 ## 0.7.7
+
 2018-08-28
 
 ### Fixed
-- Bug in animation / interpolation API
+
+* Bug in animation / interpolation API
 
 ## 0.7.6
+
 2018-08-28
 
 ### Added
-- Animation of colors
+
+* Animation of colors
 
 ### Improved
-- Importing Design Components in Code
-- Animation API has more consistent option handling
+
+* Importing Design Components in Code
+* Animation API has more consistent option handling
 
 ### Fixed
-- Empty state of Stack component
-- Off-pixel rendering of Frame in some cases
+
+* Empty state of Stack component
+* Off-pixel rendering of Frame in some cases
 
 ## 0.7.5
+
 2018-08-21
 
 ### Improved
 
--   Generic types of `Override`
+* Generic types of `Override`
 
 ### Fixed
 
--   Sorting UI of Stacks
+* Sorting UI of Stacks
 
 ## 0.7.4
+
 2018-08-21
 
 ### Added
 
--   Bezier curve animations
+* Bezier curve animations
 
 ## 0.7.3
+
 2018-08-20
 
 ### Added
 
--   Support for OverrideFunctions for Design Components used in code
+* Support for OverrideFunctions for Design Components used in code
 
 ### Improved
 
--   Skip invisible stack items during layout
--   Renamed FusedNumber option splitKey to toggleKey
+* Skip invisible stack items during layout
+* Renamed FusedNumber option splitKey to toggleKey
 
 ### Fixed
 
--   Handling of Animatable properties in Stack
--   Rerun OverrideFunction on rerender
+* Handling of Animatable properties in Stack
+* Rerun OverrideFunction on rerender
 
 ## 0.7.2
+
 2018-08-20
 
 ### Improved
 
--   Fix FrameProperties type of Default Override type
+* Fix FrameProperties type of Default Override type
 
 ## 0.7.1
+
 2018-08-20
 
 ### Improved
 
--   Made Animatable.set() also accepts Animitable values
--   Default Override type to FrameProperties
+* Made Animatable.set\(\) also accepts Animitable values
+* Default Override type to FrameProperties
 
 ## 0.7.0
 
@@ -95,7 +107,7 @@
 
 ### Improved
 
--   Rename FramerFunction to Override
+* Rename FramerFunction to Override
 
 ## 0.6.1
 
