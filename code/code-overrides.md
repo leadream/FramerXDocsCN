@@ -99,3 +99,37 @@ export const scaleButton: Override = props => {
 
 Please note we need to use let for the toggle here as we replace the value when you click to keep track of the state. As a pro tip \(and an exercise for the user\), you can greatly simplify the code inside `onTap` with a [conditional operator](https://stackoverflow.com/questions/6259982/how-do-you-use-the-conditional-operator-in-javascript).
 
+## Application State
+
+Every complex project has a set of parameters \(or variables\); whether the user is logged in, what a choice was on a previous screen, or a downloaded set of friend names. The displayed user interface at any point is a result of all of that data, and any change to it should update the user interface.  
+  
+The [Framer Library](framer.js/) provides a simple Data object that does exactly that. It behaves like a plain JavaScript object you can store anything in, and it updates your project user interface every time anything changes.  
+  
+Let’s look at two code overrides that update the text of a Frame when you click another Frame. Start by setting up a new document with a Frame and Text.
+
+![](https://d2mxuefqeaa7sj.cloudfront.net/s_163220D9C0E803228842F5F3CA6BABB8C8965572CBECA3832DE533848A871A26_1534852249638_image.png)
+
+Now let’s write two code overrides, one for the button and one for the text, so the text changes when we click the button.
+
+```typescript
+import { Override, Data } from "framer";
+
+const app = Data({ name: "Koen" });
+
+export const useName: Override = props => {
+  return {
+    text: app.name
+  };
+};
+
+export const useNameButton: Override = props => {
+  return {
+    onClick: () => {
+      app.name = "Jorn";
+    }
+  };
+};
+
+```
+
+The app variable holds a Data object with the name set to “Koen”. The `useName` sets the text property to the value of the `name`. The `useNameButton` updates the name value to “Jorn”. As soon as it gets updated, you’ll see the user interface reflect it.
