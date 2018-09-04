@@ -4,11 +4,11 @@
 
 2018-09-04
 
-## Improved
+### Improved
 
 * Interpolation of objects and colors
 
-## Fixed
+### Fixed
 
 * Scrolling on touch devices
 * Copy CSS for Stacks
