@@ -15,6 +15,7 @@
   * [Properties](tools/properties.md)
   * [Additional Features](tools/additional-features.md)
 * [Preview](preview.md)
+* [Live Preview](live-preview.md)
 * [Components](components/README.md)
   * [Design Components](components/design.md)
   * [Code Components](components/code.md)
@@ -40,5 +41,4 @@
   * [.framerx issues](troubleshooting/framerx-issues.md)
   * [Preview issues](troubleshooting/preview-is-not-working.md)
 * [FAQ](faq.md)
-* [Live Preview](live-preview.md)
 
