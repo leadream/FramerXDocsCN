@@ -40,4 +40,5 @@
   * [.framerx issues](troubleshooting/framerx-issues.md)
   * [Preview issues](troubleshooting/preview-is-not-working.md)
 * [FAQ](faq.md)
+* [Live Preview](live-preview.md)
 
