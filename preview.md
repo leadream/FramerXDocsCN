@@ -38,9 +38,3 @@ Select Keep On Top if you want to cement the preview window stuck in the top cor
 
 When your prototype is finished and you are ready to show it to the world then go ahead and jump into Presentation mode by pressing `⌘`+`Shift`+`F` . Your prototype will then take full center and you will not be distracted by the rest of the UI. Perfect for testing it out.
 
-## Mobile and Remote Previewing
-
-View and interact with your native projects in context with our preview apps for iOS and Android.
-
-_Framer X Beta does not currently feature Mobile and Remote Previewing. More about this will come soon._
-
