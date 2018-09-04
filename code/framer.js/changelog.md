@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.7.10
+
+2018-09-04
+
+## Improved
+- Interpolation of objects and colors
+
+## Fixed
+- Scrolling on touch devices
+- Copy CSS for Stacks
+- Transition of Navigation components
+
 ## 0.7.9
 
 2018-08-31
