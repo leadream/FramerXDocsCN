@@ -6,6 +6,8 @@ Framer X Beta 3 introduces Live Previewing. This adds the ability to preview you
 * **Security** — The generated link will automatically become inaccessible once your project is closed or if you stop the live preview manually.
 * **Mobile** — Simply scan the QR code with the Camera app to open the project.
 
+![](.gitbook/assets/live.png)
+
 ### Start Previewing
 
 To start the live preview, click on the mobile phone icon in the top-right corner. Click "Start Preview" from within the popover. This will start the live server. From here on out, you can either scan the QR code with the Camera app on your iOS device, or click "Open in Browser" to preview in your browser.
