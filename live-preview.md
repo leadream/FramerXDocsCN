@@ -12,8 +12,6 @@ Framer X Beta 3 introduces Live Previewing. This adds the ability to preview you
 
 To start the live preview, click on the mobile phone icon in the top-right corner. Click "Start Preview" from within the popover. This will start the live server. From here on out, you can either scan the QR code with the Camera app on your iOS device, or click "Open in Browser" to preview in your browser.
 
----
-
 ### Notes
 
 We’re actively working on improving the live previewing experience, as we continue testing it as part of the Beta. Find a list of known issues we’re tackling below.
