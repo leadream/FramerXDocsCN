@@ -101,10 +101,10 @@ Please note we need to use let for the toggle here as we replace the value when 
 
 ## Application State
 
-Every complex project has a set of parameters \(or variables\); whether the user is logged in, what a choice was on a previous screen, or a downloaded set of friend names. The displayed user interface at any point is a result of all of that data, and any change to it should update the user interface.  
-  
-The [Framer Library](framer.js/) provides a simple Data object that does exactly that. It behaves like a plain JavaScript object you can store anything in, and it updates your project user interface every time anything changes.  
-  
+Every complex project has a set of parameters \(or variables\); whether the user is logged in, what a choice was on a previous screen, or a downloaded set of friend names. The displayed user interface at any point is a result of all of that data, and any change to it should update the user interface.
+
+The [Framer Library](https://github.com/framer/FramerXDocs/tree/c77e72ea0ba0ab5bae50e336849b3f008c9c5fec/code/framer.js) provides a simple Data object that does exactly that. It behaves like a plain JavaScript object you can store anything in, and it updates your project user interface every time anything changes.
+
 Let’s look at two code overrides that update the text of a Frame when you click another Frame. Start by setting up a new document with a Frame and Text.
 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_163220D9C0E803228842F5F3CA6BABB8C8965572CBECA3832DE533848A871A26_1534852249638_image.png)
@@ -129,7 +129,7 @@ export const useNameButton: Override = props => {
     }
   };
 };
-
 ```
 
 The app variable holds a Data object with the name set to “Koen”. The `useName` sets the text property to the value of the `name`. The `useNameButton` updates the name value to “Jorn”. As soon as it gets updated, you’ll see the user interface reflect it.
+

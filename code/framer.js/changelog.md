@@ -5,12 +5,14 @@
 2018-09-04
 
 ## Improved
-- Interpolation of objects and colors
+
+* Interpolation of objects and colors
 
 ## Fixed
-- Scrolling on touch devices
-- Copy CSS for Stacks
-- Transition of Navigation components
+
+* Scrolling on touch devices
+* Copy CSS for Stacks
+* Transition of Navigation components
 
 ## 0.7.9
 

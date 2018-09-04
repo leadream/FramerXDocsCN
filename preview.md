@@ -2,6 +2,8 @@
 
 Framer X has a Preview window which allows you to see an accurate and live representation of anything that you are creating. And it does so interactively! Just hop into Preview mode by tapping the Play icon in the top right corner or hit `⌘`+`P` to see it in action.
 
+![](.gitbook/assets/preview-overview-2x.jpg)
+
 ## Devices
 
 When you create a Frame you can choose from a wide selection of preset devices, which is located in your properties panel under _Device_. Once a Device is selected, your Frame will automatically resize to the desired device its dimensions. The Preview window will then also automatically adjust itself and will, when in presentation mode, show your designs on the selected device for a perfect representation.
