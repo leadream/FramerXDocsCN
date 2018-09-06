@@ -21,14 +21,14 @@ Items ~~crossed out~~ are not on beta yet, but planned for release and should sh
 * **Layout:** \(auto\) hierarchy, \(auto\) positioning, frames, images, text, stacks.
 * **Drawing:** shapes, path editing, styling, grouping, boolean operations.
 * **Import / Export:** paste, Sketch paste, image exporting, SVG exporting, code export.
-* **Preview:** window, frame selection, device, presentation mode, ~~mobile preview~~, ~~remote preview~~, ~~inspector~~, ~~print~~.
+* **Preview:** window, frame selection, device, presentation mode, mobile preview, remote preview, inspector, print.
 * **Interactive:** link, scroll, page.
 * **Design Components:** panel, ~~organization~~, search, master, instance, overrides, nesting, use from code.
 * **Store:** browse, search, install, ~~update~~, ~~private company store~~.
 * **Sharing:** ~~cloud~~, ~~web project~~.
 * **Code Components:** creation, editing, interface props, canvas children.
 * **Code Overrides:** creation, editing, state.
-* **Code Library:** animation, ~~interpolation~~, ~~events~~, ~~gestures,~~ components.
+* **Code Library:** animation, interpolation, ~~events~~, ~~gestures,~~ components.
 * **Packages:** publish, update, versioning, dependencies.
 
 ## How You can Help
