@@ -10,6 +10,7 @@ An overview of the current feature state:
 
 1. **Beta I – August 1st, 2018** Majority of the design features, design components, basic store functionality and code components are ready for testing. The Framer.js library is only partly available, and code functions are missing.
 2. **Beta II – August 21st, 2018** Focus on code, supporting the previous Framer workflow with code overrides, state management, using design components from code, code exporting and a more complete Framer.js library.
+3. **Beta III – September 4th, 2018** Focus on Live Previewing on device with real-time updates.
 
 ### Feature Overview
 
