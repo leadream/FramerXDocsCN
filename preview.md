@@ -40,7 +40,7 @@ When your prototype is finished and you are ready to show it to the world then g
 
 ## Mobile and Remote Previewing
 
-View and interact with your native projects in context with our preview apps for iOS and Android.
+View and interact with your native projects in context with our preview apps for iOS and Android. Via [Live Preview](live-preview.md), you can get the same preview behavior remotely on any phone or other device anywhere in the world.
 
-_Framer X Beta does not currently feature Mobile and Remote Previewing. More about this will come soon._
+Learn more about [Live Preview](live-preview.md)
 
