@@ -4,6 +4,7 @@
 * [Get Started](introduction/README.md)
   * [Beta Program](introduction/beta/README.md)
     * [Beta 2](introduction/beta/beta-2.md)
+    * [Beta 3](introduction/beta/beta-3.md)
   * [Starting from Framer](introduction/starting-from-framer.md)
   * [Starting from ...](introduction/starting-from-....md)
 * [Canvas](canvas.md)
