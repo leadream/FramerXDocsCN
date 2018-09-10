@@ -25,7 +25,7 @@ Framer uses code in two distinct places: **components** and **functions**.
 
 All code in Framer is expressed in plain **React** using **JavaScript ES6**. A component can be as simple as just one html tag with some css, all the way to a very complex media player with rich interactions. This also means that people with a variety of skills can make components. If you know basic web development you can learn to build them in ten minutes. If you are an advanced engineer that knows React, you don’t have to learn anything new, everything will just work like you expect.
 
-**Note**: Under the hood Framer X actually uses [TypeScript](https://www.typescriptlang.org/), a typed version of JavaScript. Types help to manage larger applications and helps us to offer really great auto complete for editors, but for you they are completely optional, you can just write ES6 if you like.
+**Note**: Under the hood Framer X actually uses [TypeScript](https://www.typescriptlang.org/), a typed version of JavaScript. Types help to manage larger applications and helps us to offer really great auto complete for editors, but TypeScript will become completely optional so that you will also be able to just write ES6 if you like.
 
 **Note**: Although there might be a way to create React Native applications in Framer in the future, we don’t offer an official way today. You are of course free to explore how far you can come yourself. Our open source Framer library should contain everything you need to get started.
 
