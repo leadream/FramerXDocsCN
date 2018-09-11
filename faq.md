@@ -14,7 +14,7 @@ To maintain stability and offer a great experience we are rolling out our Beta a
 
 ## Can Framer X do what I did in Framer?
 
-Yes, even better. But the current beta does [not include all functionality](https://github.com/framer/FramerXDocs/tree/cd44d327c254f01f5aa0ca8c776f78989de1ca3a/faq/introduction/beta.md#feature-overview) yet because we're still working on some code features. They will land in the next beta versions.
+Yes, even better. But the current beta does not include all functionality yet because we're still working on some code features. They will land in the next beta versions.
 
 ## Will Framer X be TypeScript based?
 
