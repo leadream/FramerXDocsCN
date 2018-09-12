@@ -35,7 +35,7 @@ Framer X relies on an external editor for writing code. Any editor will work, bu
 
 #### Changing your default editor
 
-* Go to any `.tsx` file in your Finder.
+* Go to any `.ts` / `.tsx` file in your Finder.
 * Right-click and choose "Get Info".
 * At the  "Open With…" section you can select your editor.
 * Click "Change All…" and then choose "Continue".
