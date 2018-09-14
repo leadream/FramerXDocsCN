@@ -164,6 +164,8 @@ Controls can be described by specifying one of the following types:
 * Number
 * String
 * Color
+* Image
+* File
 * Enum
 * SegmentedEnum
 * FusedNumber
@@ -216,6 +218,27 @@ Color controls are displayed using a color picker popover and a number input for
 ```typescript
 interface ColorControlDescription {
     type: ControlType.Color
+}
+```
+
+#### Image Control
+
+Image controls are displayed using an image picker that shows a small preview. The component receives an absolute URL during rendering.
+
+```typescript
+interface ColorControlDescription {
+    type: ControlType.Image
+}
+```
+
+#### File Control
+
+File controls are displayed using a file picker that shows the file name after selecting a file. The component receives an absolute URL during rendering. The `allowedFileTypes` is an array containing all allowed file types, like so: `["json", "obj", "collada"]`
+
+```typescript
+interface ColorControlDescription {
+    type: ControlType.File
+    allowedFileTypes: string[]
 }
 ```
 
