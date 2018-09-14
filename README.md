@@ -1,22 +1,23 @@
 # Framer X
 
-## Welcome
+## 欢迎
 
-Thanks for joining the beta program. This guide is very much a work in progress towards the final release. Feel free to send us feedback, or make suggestions on GitHub directly.
+感谢加入测试版。这份文档在正式版出来之前仍然处于撰写中的状态，欢迎提反馈意见，也欢迎直接在 Github 修改错误之处。
 
-### The Best Way to Start; TLDR
+### 最好的开始方式
 
-* Read [how to think about Framer X](https://framer.gitbook.io/framer/#how-to-think-about-framer-x) and supported design work below.
-* Read the [beta program page](introduction/beta/) on what to expect in Beta 1. _**Hint**: some of the code parts are still in progress \(code functions, state\), and being offline will cause some issues._
-* Explore the canvas, automatic layout, styling, stacks, design components, flow and scroll interactions, using the store to install packages and build a simple React component yourself, optionally with some [custom properties](components/#adding-framer-interface-for-props) that you can configure from the Framer interface.
+* 阅读[如何思考 Framer X](https://framer.gitbook.io/framer/#how-to-think-about-framer-x) 和下面的“支持的设计流程”
+* 阅读[测试版页面](introduction/beta/) _**提示**: 代码部分许多内容仍在频繁更新中 \(code functions, state\)，最好随时查阅。_
+* 你可以自己先探索画布、自动布局、样式、Stacks、设计组件、页面流和滚动内容，从设计商店中安装一些简单的 React 组件，也可以尝试在属性面板中[自定义属性](components/#adding-framer-interface-for-props) 。
 
-## How to Think About Framer X
 
-Framer X is quite different from other design tools. It aims to **blend canvas and code,** as well as **design and development**, to support a new more natural and efficient way of designing digital products.
+## 如何思考 Framer X
 
-Framer X is more like [Unity](https://unity3d.com/unity/editor) than like Photoshop. An [**IDE**](https://en.wikipedia.org/wiki/Integrated_development_environment) **for design**, if you will. Framer X can do many different things from wire-framing to visual design to screen flows to design systems to interactive component programming. We expect most users to only use what they need based on their project or skill level.
+Framer X 和其它设计工具完全不一样，我们的目的是**混合画布和代码**，或者说**混合设计和开发**，这是一种全新的、高效自然的设计数字化产品的方式。
 
-Framer X is both the **most easy and most advanced** design tool. We think a subset of more advanced users will build components for everyone else, so the majority of users won’t write code, but visually compose interfaces with components built by others through the store. But if you enjoy writing code, Framer X will be the best environment to do so and we encourage everyone to explore it.
+Framer X 更像是 [Unity](https://unity3d.com/unity/editor) ，而不是 photoshop。它是一个**设计师的** [**IDE**](https://en.wikipedia.org/wiki/Integrated_development_environment)。Framer X 可以做很多不同的事情，从线框图到视觉设计，从页面流到设计系统，再到代码构建的交互组件，我们希望每一个设计师能够根据自己的需求或技能来使用。
+
+>Framer X is both the **most easy and most advanced** design tool. We think a subset of more advanced users will build components for everyone else, so the majority of users won’t write code, but visually compose interfaces with components built by others through the store. But if you enjoy writing code, Framer X will be the best environment to do so and we encourage everyone to explore it.
 
 The idea behind Framer X is **not to generate code for you**, but instead to use the code you \(or someone else\) wrote. Auto generated code almost never ends up in production, so it's better to have a tool use the code that is being used. If you already have React components built, they should work in Framer X with minimal effort. That said, _everything_ you draw in Framer is a React component and exportable to `jsx`, `html` or static assets if you need it.
 
@@ -66,4 +67,3 @@ _Helpful to know: JavaScript, React, motion graphics._
 _Helpful to know: NPM, Yarn._
 
 ![](.gitbook/assets/framer%20%281%29.png)
-
